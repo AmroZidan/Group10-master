@@ -1,0 +1,7 @@
+ID | User Story | Effort | Priority | Validation Requirements | Owner
+---|------------|--------|----------|-------------------------|-------
+001 | As a player, I want a list of all the types of questions so that I will have to answer them | 8 | 2 | A database of questions is created ranging from pop culture, to history, to music | Billy Quiroga
+002 | As a player, I want a grid that represents the map so that I know where I will be going | 7 | 3 | A basic grid will created that goes in all 4 cardinal directions | Amro Ziden
+003 | As a player, I want a main menu that shows up when I first open the software or a game ends, so that I will be able to start and quit the game whenever I wish | 7 | 4 | A menu will be created as soon as the game is launched with the ability to start and quit the game | Jacob Pfaffenbichler
+005 | As a player, I want a pause menu with the options to continue and quit so that I can take a break I wish to do so | 8 | 9 | When the player wishes, they will be able to payse the game, and then be able to contiue playing or quit the game | Jacob Magnuson
+004 | As a player, I want a 2D map with a start and an end so that I have a point to start from and a goal to try to obtain | 8 | 6 | The player will spawn on the start tile and the game will end when he reaches the end tile | Amro Ziden
